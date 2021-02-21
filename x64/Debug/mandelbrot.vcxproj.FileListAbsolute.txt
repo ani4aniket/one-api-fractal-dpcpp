@@ -1,0 +1,2 @@
+C:\Users\abhis\source\repos\Mandelbrot7\x64\Debug\mandelbrot.exe
+C:\Users\abhis\source\repos\Mandelbrot7\x64\Debug\mandelbrot.pdb

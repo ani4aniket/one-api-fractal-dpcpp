@@ -1,0 +1,10 @@
+Enter the option to see fractals
+1. Sin 
+2. Cos 
+3. Tan 
+4. Mandel
+Parallel Mandelbrot set using buffers.
+ Rendered image output to file: mandelbrot.png (output too large to display in text)
+       Serial time: 3.19298s
+     Parallel time: 0.0342199s
+Successfully computed Mandelbrot set.
